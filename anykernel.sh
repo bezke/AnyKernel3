@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Etherious Kernel by SonalSingh18
+kernel.string=InnOvaTioN Kernel by bezke
 do.devicecheck=1
 do.modules=0
 do.systemless=1
